@@ -1,0 +1,3 @@
+1. When would you want to use a remote repository rather than keeping all your work local?
+
+	When multiple people is working on the project at the same time or you are working on the same project in differenct computers.
